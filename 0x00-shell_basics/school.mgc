@@ -1,0 +1,4 @@
+#!/bin/bash
+vim school.mgc
+O string SCHOOL school data
+!:mime School
