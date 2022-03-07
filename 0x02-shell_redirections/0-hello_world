@@ -1,2 +1,2 @@
-#!/bin/bash
-lpr -l "hello, word"
+#!/bin/bash 
+echo "hello, word"
