@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello world" >> file.text
+head -x "hello world"
